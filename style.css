@@ -1,0 +1,95 @@
+
+
+.logo{
+    height:120px;
+    width:200px;
+}
+.logo img{
+    height:250%;
+    width:200%;
+    margin-top:-83px;
+}
+.catagory-section ul{
+    list-style:none;
+    display:flex;
+}
+.catagory-section ul li{
+    padding:5px 20px ;
+    margin-top:40px;
+  
+}
+.catagory-section ul li a{
+    text-decoration: none;
+    font-size:20px;
+    color:#000;
+
+  
+}
+.registration{
+    background-color:#006a4e;
+    padding:10px 12px;
+    color:#fff !important;
+    border-radius:6px;
+}
+.registration:hover{
+    background-color:#369e82;
+    padding:10px 12px;
+    color:#fff;
+    border-radius:6px;
+}
+
+header{
+    background-image:url('diu.jpg');
+    padding:150px 0;
+    text-align:center;
+}
+.title{
+    color:#fff;
+    font-size:70px;
+    text-align:center;
+}
+.time-countdown{
+    width:50%;
+    margin:10px auto;
+}
+.btn-reg{
+    font-size:34px;
+    border:none;
+    border-radius:7px;
+    padding:10px 20px;
+    margin-top:60px;
+
+}
+
+
+/* bbbbbbb */
+.page-section{
+    margin:100px 0;
+}
+.page-section p{
+    text-align:center;
+}
+
+
+
+
+/* footer area */
+
+.footer-area{
+    background-color: #1e272e;
+    color:#fff;
+    padding:40px 0;
+}
+.footer-area div{
+    width:50%;
+   
+}
+.footer-area p{
+    font-size:17px;
+    padding:50px;
+}
+.footer-info{
+    margin-right:30px;
+}.border-style{
+    border-right:1px solid #fff;
+}
